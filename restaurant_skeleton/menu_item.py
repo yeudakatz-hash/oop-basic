@@ -220,7 +220,7 @@ class Appetizer(MenuItem):
         """
 
     def get_category(self)-> str:
-        return "Appetizer"
+        return "Appetizers"
 
         """מחזיר 'Appetizers'"""
 
